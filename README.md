@@ -12,4 +12,4 @@ To get started testing your own circuits, simply
 (Note: It is not necessary to place circuits or tests in any particular directory.
 Just be sure that the tests uses the correct pathname when loading the circuit.)
 
-See the README in `willow-dls/core` for more details.
+See the README in [`willow-dls/core`](https://github.com/willow-dls/core) for more details.
